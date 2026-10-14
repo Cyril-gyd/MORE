@@ -1,6 +1,6 @@
 # MORE: Learning Motion-Oriented Registers for Driving World Models and Planning
 
-[[Paper]()] [[Code](https://github.com/Cyril-gyd/MORE)]
+[[Paper](https://arxiv.org/abs/2610.14871)] [[Code](https://github.com/Cyril-gyd/MORE)]
 
 ---
 
@@ -28,5 +28,13 @@ During pretraining, MORE injects temporally aligned ego motion into a small set 
 If you find MORE useful in your research, please consider citing our work:
 
 ```bibtex
-
+@misc{gu2026morelearningmotionorientedregisters,
+      title={MORE: Learning Motion-Oriented Registers for Driving World Models and Planning}, 
+      author={Yingdong Gu and Haoyu Wang and Shaocheng Yan and Zhenjun Zhao and Hao Han and Pengcheng Shi and Xianfei Li and Qinghua Tan and Wenlong Liao and Tao He and Jiayuan Li and Pai Peng},
+      year={2026},
+      eprint={2610.14871},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.14871}, 
+}
 ```
